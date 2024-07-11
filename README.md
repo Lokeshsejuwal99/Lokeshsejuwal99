@@ -1,6 +1,5 @@
-# Hi there 👋
+# Hi there👋, I’m Lokesh Sejuwal. 
 
-I’m Lokesh Sejuwal.
 
 ## 🔗 Connect with Me
 
