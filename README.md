@@ -1,22 +1,12 @@
 # Hi there 👋
 
-I’m [Your Name] and here are some of my achievements:
-
-## 🏆 Achievements
-
-- 🌟 **Top Contributor**: Awarded by [Organization] for my contributions to [Project].
-- 📜 **Certified Developer**: Completed [Certification] from [Institution].
-- 🛠 **Open Source Projects**: Maintained [Project Name], which has [Number] stars on GitHub.
-- 🏅 **Hackathon Winner**: Won [Hackathon Name] for [Project].
+I’m Lokesh Sejuwal.
 
 ## 🔗 Connect with Me
 
-- [LinkedIn](https://linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Personal Website](https://yourwebsite.com)
+- [LinkedIn](https://www.linkedin.com/in/lokesh-sejuwal-b3651421a/)
 
 ## 💼 Portfolio
 
-Check out my [portfolio](https://yourportfolio.com) to see my projects and achievements in more detail.
+Check out my [portfolio](https://lokesh-712b7e.netlify.app/) to see my projects and achievements in more detail.
 
-![Your Achievement Badge](https://img.shields.io/badge/Achievement-BadgeName-blue)
