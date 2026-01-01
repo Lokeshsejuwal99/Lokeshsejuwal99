@@ -1,4 +1,4 @@
-# Hi there👋, I’m Lokesh Sejuwal 🌐👨‍💻
+# Lokesh Sejuwal 🌐👨‍💻
 
 
 ## 🔗 Connect with Me
